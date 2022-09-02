@@ -1,1 +1,1 @@
-setup Git and Github account
+0-hello_ubuntu
